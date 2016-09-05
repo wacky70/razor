@@ -1,0 +1,95 @@
+[Fri Sep 02 2016 14:28:21 GMT+0000 (UTC)] INFO Logged in as razor of Devopsrazor
+[Fri Sep 02 2016 14:28:21 GMT+0000 (UTC)] INFO Slack client now connected
+[Fri Sep 02 2016 14:28:21 GMT+0000 (UTC)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+info: message received on reconnect with no registered callback:
+[object Object]
+[Fri Sep 02 2016 14:28:21 GMT+0000 (UTC)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Fri Sep 02 2016 14:28:22 GMT+0000 (UTC)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Fri Sep 02 2016 14:31:34 GMT+0000 (UTC)] INFO Logged in as razor of Devopsrazor
+[Fri Sep 02 2016 14:31:35 GMT+0000 (UTC)] INFO Slack client now connected
+[Fri Sep 02 2016 14:31:35 GMT+0000 (UTC)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+info: message received on reconnect with no registered callback:
+[object Object]
+[Fri Sep 02 2016 14:31:35 GMT+0000 (UTC)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Fri Sep 02 2016 14:31:35 GMT+0000 (UTC)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Fri Sep 02 2016 17:17:04 GMT+0000 (UTC)] INFO Logged in as razor of Devopsrazor
+[Fri Sep 02 2016 17:17:04 GMT+0000 (UTC)] INFO Slack client now connected
+[Fri Sep 02 2016 17:17:04 GMT+0000 (UTC)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Fri Sep 02 2016 17:17:04 GMT+0000 (UTC)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Fri Sep 02 2016 17:17:04 GMT+0000 (UTC)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Fri Sep 02 2016 17:28:30 GMT+0000 (UTC)] INFO Logged in as razor of Devopsrazor
+[Fri Sep 02 2016 17:28:30 GMT+0000 (UTC)] INFO Slack client now connected
+[Fri Sep 02 2016 17:28:30 GMT+0000 (UTC)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+info: message received on reconnect with no registered callback:
+[object Object]
+[Fri Sep 02 2016 17:28:30 GMT+0000 (UTC)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Fri Sep 02 2016 17:28:30 GMT+0000 (UTC)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Fri Sep 02 2016 23:09:18 GMT+0000 (UTC)] INFO Logged in as razor of Devopsrazor
+[Fri Sep 02 2016 23:09:18 GMT+0000 (UTC)] INFO Slack client now connected
+[Sun Sep 04 2016 08:13:43 GMT+0000 (UTC)] ERROR Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at net.js:1147:9
+  at dns.js:72:18
+  at process._tickCallback (node.js:458:13)
+
+[Sun Sep 04 2016 08:13:44 GMT+0000 (UTC)] INFO Logged in as razor of Devopsrazor
+[Sun Sep 04 2016 08:13:44 GMT+0000 (UTC)] INFO Slack client now connected
+[Sun Sep 04 2016 08:13:44 GMT+0000 (UTC)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+info: message received on reconnect with no registered callback:
+[object Object]
+[Sun Sep 04 2016 08:13:44 GMT+0000 (UTC)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Sun Sep 04 2016 08:13:44 GMT+0000 (UTC)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Sun Sep 04 2016 08:16:27 GMT+0000 (UTC)] ERROR Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at net.js:1147:9
+  at dns.js:72:18
+  at process._tickCallback (node.js:458:13)
+
+[Sun Sep 04 2016 08:16:28 GMT+0000 (UTC)] INFO Logged in as razor of Devopsrazor
+[Sun Sep 04 2016 08:16:28 GMT+0000 (UTC)] INFO Slack client now connected
+[Sun Sep 04 2016 08:16:28 GMT+0000 (UTC)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+info: message received on reconnect with no registered callback:
+[object Object]
+[Sun Sep 04 2016 08:16:28 GMT+0000 (UTC)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Sun Sep 04 2016 08:16:28 GMT+0000 (UTC)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Sun Sep 04 2016 08:19:24 GMT+0000 (UTC)] ERROR Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at net.js:1147:9
+  at dns.js:72:18
+  at process._tickCallback (node.js:458:13)
+
+[Sun Sep 04 2016 08:19:25 GMT+0000 (UTC)] INFO Logged in as razor of Devopsrazor
+[Sun Sep 04 2016 08:19:25 GMT+0000 (UTC)] INFO Slack client now connected
+[Sun Sep 04 2016 08:19:25 GMT+0000 (UTC)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+info: message received on reconnect with no registered callback:
+[object Object]
+[Sun Sep 04 2016 08:19:25 GMT+0000 (UTC)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-youtub'
+  at Function.Module._resolveFilename (module.js:338:15)
+  at Function.Module._load (module.js:280:25)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Robot.loadExternalScripts (/opt/hubot/node_modules/hubot/src/robot.coffee:401:11, <js>:272:27)
+  at /opt/hubot/node_modules/hubot/bin/hubot:152:11, <js>:159:26
+  at fs.js:272:14
+  at Object.oncomplete (fs.js:108:15)
+
